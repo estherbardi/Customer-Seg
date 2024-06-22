@@ -2,6 +2,13 @@
 # coding: utf-8
 
 # In[2]:
+# Import necessary libraries
+ip install plotly cufflinks char_studio
+import cufflinks as cf 
+import chart_studio.plotly as py
+import plotly.express  as px
+import plotly. graph_objects as go
+import plotly. fi
 
 
 # Import necessary libraries
